@@ -9,6 +9,9 @@ supabase==2.0.3
 # HTTP Client
 httpx==0.25.1
 
+# Text Processing
+unidecode==1.3.7
+
 # Environment & Config
 python-dotenv==1.0.0
 pydantic==2.5.0
